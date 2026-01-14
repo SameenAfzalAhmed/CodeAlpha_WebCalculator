@@ -14,7 +14,7 @@ A simple and responsive **Web Calculator** built using **HTML, CSS, and JavaScri
 - **JavaScript** – Calculator logic & interactivity
 
 ## 🚀 Live Demo
-(Add live link here if deployed)
+(https://sameenafzalahmed.github.io/CodeAlpha_WebCalculator/)
 
 ## 📂 Project Structure
 CodeAlpha_WebCalculator/
